@@ -12,4 +12,4 @@
 >* Numeración de páginas.
 >* Alineación de párrafos.
 
-Enlace adjunto [[archivo] (
+Enlace adjunto [[archivo] (https://docs.google.com/document/d/183rHRAJwfClJUEU3V__2Km3EbwHXxWYmF6z1KxtT-_E/edit?usp=sharing)] 
